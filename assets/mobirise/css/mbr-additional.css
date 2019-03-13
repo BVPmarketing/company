@@ -1766,10 +1766,44 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/blurred-background-close-up-daylight-1449899-2000x1330.jpg");
 }
-.cid-rkxDsbnyCH {
+.cid-rky9vY7MQq {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
+}
+.cid-rky9vY7MQq h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rky9vY7MQq p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rky9vY7MQq .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rky9vY7MQq .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rky9vY7MQq .mbr-text {
+  color: #767676;
+}
+.cid-rky9vY7MQq .card-wrapper {
+  height: 100%;
+  background: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rky9vY7MQq .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rkxDsbnyCH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/blurred-background-close-up-daylight-1449899-2000x1330.jpg");
 }
 .cid-rkxDsbnyCH .mbr-iconfont {
   font-size: 48px;
@@ -1836,60 +1870,6 @@ body {
   }
   .cid-rkxDsbnyCH .container > .row > .col-md-6:last-child {
     padding-left: 30px;
-  }
-}
-.cid-rkxvQ1yS7l {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rkxvQ1yS7l div.b {
-  padding-top: 2rem;
-}
-.cid-rkxvQ1yS7l .mbr-text {
-  color: #767676;
-  margin: 0;
-  padding-top: 1.5rem;
-}
-.cid-rkxvQ1yS7l a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rkxvQ1yS7l .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rkxvQ1yS7l .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rkxvQ1yS7l .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rkxvQ1yS7l .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rkxvQ1yS7l .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rkxvQ1yS7l div.left-block.wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-}
-@media (max-width: 767px) {
-  .cid-rkxvQ1yS7l div.left-block.wrapper {
-    padding-bottom: 3rem;
   }
 }
 .cid-qTkAaeaxX5 {
